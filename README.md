@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="150px" src="undraw_on_the_office_re_cxds.svg" height="100px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm mcdud!</h1>
-<h3 align="center">I'm a student from Poland intrested in web development.</h3>
+<h3 align="center">I'm a student from Poland interested in web development.</h3>
 </br>
 
 
