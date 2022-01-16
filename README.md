@@ -54,6 +54,7 @@
 
 <a href = "https://www.linkedin.com/in/duda-maciej/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://github.com/mcdud"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
+<a href = "mailto:mcdud90@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 
 </p>
 
