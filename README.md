@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mcdud90@gmail.com**
 
-- ⚡ I'm intrested in **Programming, 3D Printing and growing Hot Peppers**.
+- ⚡ I'm interested in **Programming, 3D Printing and growing Hot Peppers**.
 
 </br>
 
