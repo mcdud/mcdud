@@ -35,16 +35,6 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/mcdud/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mcdud's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mcdud&theme=nord&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/mcdud/github-readme-stats"><img alt="mcdud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mcdud&show_icons=true&count_private=true&theme=nord&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mcdud/github-readme-stats"><img alt="mcdud's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcdud&langs_count=8&count_private=true&layout=compact&theme=nord&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <br/>
@@ -54,7 +44,6 @@
 
 <a href = "https://www.linkedin.com/in/duda-maciej/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://github.com/mcdud"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
-<a href = "mailto:mcdud90@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 
 </p>
 
